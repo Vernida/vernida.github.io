@@ -1,0 +1,1 @@
+This is my personal website. It started as a project for Code:You to showcase my resume, but I hope to make it more as I continue to learn more code.
